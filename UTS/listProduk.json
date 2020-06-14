@@ -1,0 +1,48 @@
+{
+  "produk": [
+    {
+      "userId": 1,
+      "id": 1,
+      "nama": "ELECTROLUX Kulkas Portable EUM0500SB",
+      "harga": 1810000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5c357b2f290e9.jpg",
+      "stok": 100
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "nama": "ELECTROLUX Kulkas 2 Pintu ETB5702BA",
+      "harga": 12916000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5c35603f89c59.jpg",
+      "stok": 100
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "nama": "AQUA Kulkas AQR-D260 S",
+      "harga": 1462000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5a17cafb60347.jpg",
+      "stok": 100
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "nama": "POLYTRON Kulkas 1 Pintu PRO16BNB",
+      "harga": 1942000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5d26ef4b52144.jpg",
+      "stok": 100
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "nama": "SAMSUNG Kulkas 2 Pintu RT50K6241S8",
+      "harga": 10040000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5c4eb0d200b79.jpg",
+      "stok": 100
+    } 
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
