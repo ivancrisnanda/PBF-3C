@@ -1,0 +1,18 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 1586526350999,
+      "nim": "1741720024",
+      "nama": "Ivan",
+      "alamat": "danayan 1 kediri",
+      "hp": "6281231672170",
+      "angkatan": "2017",
+      "status": "alhamdulillah"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
